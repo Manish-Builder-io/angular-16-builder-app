@@ -21,7 +21,7 @@ register('editor.settings', {
 });
 
 register('insertMenu', {
-  name: 'Basisc',
+  name: 'Basic',
   items: [
     { name: 'Box' },
     { name: 'Text' },
